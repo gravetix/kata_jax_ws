@@ -8,6 +8,7 @@ Simple java web service SOAP project
 * https://jax-ws.java.net/nonav/2.2.10/docs/release-documentation.html (single html)
 * https://jax-ws.java.net/articles.html
 * https://docs.jboss.org/author/display/WFLY8/JAX-WS+User+Guide
+* https://web.archive.org/web/20240713151537/https://www.predic8.com/wsdl-reading.htm
 
 ## Testing
 * __http://www.slideshare.net/reza_rahman/javaee-testing__ << HOT
